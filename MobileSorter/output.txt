@@ -1,0 +1,44 @@
+Nokia
+N250
+Android 5
+3.5
+5000
+
+
+Nokia
+N750
+Android 7
+4.0
+8000
+
+Nokia
+N990
+Android 9
+6.6
+15000
+
+
+Oppo
+Play P3
+Android 10
+6.4
+18000 
+
+Apple
+iPhone 5S
+IOS 5
+5.5
+25000
+
+Samsung
+Galaxy G-4
+Android 10
+6.2
+30000
+
+Huawei
+Honor H
+Android 9
+5.5
+32000
+
